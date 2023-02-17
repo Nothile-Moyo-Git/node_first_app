@@ -1,0 +1,16 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/build/first_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "typescript": "^4.9.5"
+  }
+}
